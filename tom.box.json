@@ -1,4 +1,11 @@
 {
+    "id": "shaolin-kongfu.app.sub",
+    "name": "少林功夫boxjs订阅",
+    "author": "@shaolin-kongfu",
+    "icon": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+    "repo": "https://github.com/shaolin-kongfu/js_scripts",
+    "apps": [
+{
     "id": "zqyd",
     "name": "钟情阅读",
     "keys": ["zqydbody","zqydbody2",],
@@ -54,9 +61,9 @@
     }],
     "repo": "https://gitee.com/tom210120/tom/raw/master/ZQ/zq.js",
     "icons": ["https://gitee.com/tom210120/tom/raw/master/Tom/Tom.jpg", "https://gitee.com/tom210120/tom/raw/master/Tom/Tom.jpg"],
-    "script": "https://gitee.com/tom210120/tom/raw/master/ZQ/zq.js",
+    "script": "https://gitee.com/tom210120/tom/raw/master/ZQ/zq.js"
     "icon": "https://gitee.com/tom210120/tom/raw/master/Tom/Tom.jpg",
-    "favIcon": "mdi-star-outline",
+     "favIcon": "mdi-star-outline",
     "favIconColor": "grey",
     "datas": [{
       "key": "zqydbody",
@@ -71,3 +78,5 @@
     "sessions": [],
     "isLoaded": true
   }
+]
+}
